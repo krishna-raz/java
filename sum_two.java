@@ -1,8 +1,7 @@
-package java;
 import java.util.Scanner; // import only Scanner class from java.util package 
 // import java.util.*; // import all classes from java.util package
 
-public class sumtwo {
+public class sum_two {
     // Global variables
 
     public static void main(String[] args) {
